@@ -22,3 +22,8 @@ The inuput and the mask for numpy array dataset looks like below image,
 
 ![LULC segmentation](https://github.com/iamtekson/Deep-learning-for-satellite-imagery/blob/main/assets/img/lulc3.PNG?raw=true)
 
+
+03. Landslide mapping
+
+![Landslide pre, post image](https://github.com/iamtekson/Deep-learning-for-satellite-imagery/blob/main/assets/img/landslide.PNG?raw=true)
+
